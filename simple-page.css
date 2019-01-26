@@ -36,14 +36,8 @@ body {
   font-style: italic;
 }
 
-
-
 .quote::before {
   content: open-quote;
-}
-
-.quote::aftercontent: close-quote; {
-  
 }
 
 .quote::after {
